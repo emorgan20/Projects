@@ -1,0 +1,31 @@
+h1{
+    background-image:url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 80% 100%;
+    color:rgb(195, 205, 50);
+    text-align: center;
+    font-size: 100px;
+
+}
+h2{font-size: 3opx;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.brush{
+    background-color: brown;
+}
+.frame{
+    background-color: orange;
+}
+.paint{
+    background-color: darkkhaki;
+}
+button{
+    color:aliceblue;
+    background-color: blue;
+    border-color: black;
+}
+body{
+    background:url("https://www.handmadecharlotte.com/get-creative-pasta-crafts/");
+}

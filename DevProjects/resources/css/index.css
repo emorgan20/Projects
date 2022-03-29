@@ -1,0 +1,36 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+   
+   
+  h1 {
+    color: SeaGreen;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid yellowgreen;
+    min-height: auto;
+    margin: auto;
+
+
+  }
+   
+   
+  p, 
+  li {
+    font-size: 18px;
+    font-style: italic;
+    color: antiquewhite;
+    text-align: match-parent;
+  }
+   
+   
+  a {
+    text-decoration: none;
+  }
+  body{
+      background-color: rgb(15, 4, 32);
+      
+  }
+  h2{
+      color:aliceblue;
+  }
